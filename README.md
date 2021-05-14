@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @lavkanos
+- 👀 I’m interested in game hacking & machine learning
+- 🌱 I’m currently learning C++
+- 💞️ I’m looking to collaborate on some cool projects!
+- 📫 How to reach me lavkanos#6355 @ Discord.com
