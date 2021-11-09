@@ -2,4 +2,4 @@
 - 👀 I’m interested in Web 
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on some cool projects!
-- 📫 How to reach me lavkanos#0001 @ Discord.com
+- 📫 How to reach me lavkanos#6789 @ discord.com
