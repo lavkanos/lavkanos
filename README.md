@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @lavkanos
-- 👀 I’m interested in learning programming
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on some cool projects!
-- 📫 How to reach me lavkanos#6789 @ discord.com
+👀 He sees it all
